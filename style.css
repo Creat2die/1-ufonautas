@@ -1,0 +1,32 @@
+.kaire{
+    left: 0;
+
+}
+
+.desine{
+    right: 0;
+}
+
+.mygtukas{
+    border: 1px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: #279CEF;
+    padding: 10px;
+    background-color: white;
+    color:#279CEF;
+}
+
+.puse{
+    height: 100%;
+    width: 50%;
+    position: fixed;
+}
+
+.centras{
+    position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+    text-align: center;
+}
