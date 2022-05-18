@@ -1,38 +1,15 @@
+
+.visas{
+    padding: 20px;
+}
 .kaire{
-    left: 0;
-    width: 45%;
+    width: 40%;
+    display: inline-block;
+
 }
 
 .desine{
-    right: 0;
-    padding-right: 30px;
     width: 55%;
-}
+    display: inline-block;
 
-.mygtukas{
-    border: 1px;
-    border-style: solid;
-    border-radius: 50px;
-    border-color: #279CEF;
-    padding:10px 20px 10px 20px;
-    background-color: white;
-    color:#279CEF;
-    margin-bottom: 10px;
-    font-size: 25px;
-}
-
-.puse{
-    height: 100%;
-    position: fixed;
-}
-
-.centras{
-    position: absolute;
-     top: 50%;
-     left: 50%;
-     transform: translate(-50%, -50%);
-}
-
-p{
-    margin: 10px;
 }
