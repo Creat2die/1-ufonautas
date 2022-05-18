@@ -1,25 +1,28 @@
 .kaire{
     left: 0;
-
+    width: 45%;
 }
 
 .desine{
     right: 0;
+    padding-right: 30px;
+    width: 55%;
 }
 
 .mygtukas{
     border: 1px;
     border-style: solid;
-    border-radius: 25px;
+    border-radius: 50px;
     border-color: #279CEF;
-    padding: 10px;
+    padding:10px 20px 10px 20px;
     background-color: white;
     color:#279CEF;
+    margin-bottom: 10px;
+    font-size: 25px;
 }
 
 .puse{
     height: 100%;
-    width: 50%;
     position: fixed;
 }
 
@@ -28,5 +31,8 @@
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-    text-align: center;
+}
+
+p{
+    margin: 10px;
 }
